@@ -49,16 +49,16 @@ cd FCC-JavaScript-DSA
 
 ## Sections
 
-- [Basic Algorithm Scripting](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-Algorithm-Scripting/)
-- [Basic Data Structures](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-Data-Structures/)
 - [Basic JavaScript](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-JavaScript/)
-- [Debugging](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Debugging/)
 - [ES6](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/ES6/)
+- [Regular Expressions](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Regular-Expressions/)
+- [Debugging](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Debugging/)
+- [Basic Data Structures](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-Data-Structures/)
+- [Basic Algorithm Scripting](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-Algorithm-Scripting/)
+- [Object Oriented Programming](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Object-Oriented-Programming/)
 - [Functional Programming](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Functional-Programming/)
 - [Intermediate Algorithm Scripting](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Intermediate-Algorithm-Scripting/)
-- [Object Oriented Programming](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Object-Oriented-Programming/)
 - [Projects](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Projects/)
-- [Regular Expressions](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Regular-Expressions/)
 
 ## Using FCC-JavaScript-DSA
 
