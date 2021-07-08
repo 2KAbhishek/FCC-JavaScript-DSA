@@ -23,85 +23,63 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/FCC-JavaScript-DSA/master/images/screenshot.jpg" alt="FCC-JavaScript-DSA Demo" style="width:100%">
-  <br/>
-  <figcaption>FCC-JavaScript-DSA Screenshot</figcaption>
-</figure>
+<h3>freeCodeCamp JavaScript DSA curriculum solutions 🧮✨</h3>
 
 </div>
 
-## Inspiration
+## What is this
 
-Bareminimum was inspired by `<reason/idea>`.
-
-## What it does
-
-FCC-JavaScript-DSA is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+FCC-JavaScript-DSA contains solutions to freeCodeCamp's JavaScript DSA challenges, shared for my own reference and if anyone else needs help.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed any `modern web browser`
+- You have signed up at [freeCodeCamp](https://freeCodeCamp.org)
 
-## Installing FCC-JavaScript-DSA
+## Getting FCC-JavaScript-DSA
 
-To install FCC-JavaScript-DSA, follow these steps:
+To get FCC-JavaScript-DSA, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/FCC-JavaScript-DSA
 cd FCC-JavaScript-DSA
-<install_command>
 ```
+
+## Sections
+
+- [Basic Algorithm Scripting](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-Algorithm-Scripting/)
+- [Basic Data Structures](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-Data-Structures/)
+- [Basic JavaScript](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Basic-JavaScript/)
+- [Debugging](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Debugging/)
+- [ES6](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/ES6/)
+- [Functional Programming](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Functional-Programming/)
+- [Intermediate Algorithm Scripting](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Intermediate-Algorithm-Scripting/)
+- [Object Oriented Programming](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Object-Oriented-Programming/)
+- [Projects](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Projects/)
+- [Regular Expressions](https://github.com/2KAbhishek/FCC-JavaScript-DSA/tree/main/Regular-Expressions/)
 
 ## Using FCC-JavaScript-DSA
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+All the solutions are stored in a tree structure that matches freeCodeCamp and can be used as a reference when going through the curriculum.
 
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
-
-## How it was built
-
-FCC-JavaScript-DSA was built using `<tech/library>`
-
-## Challenges faced
-
-While building FCC-JavaScript-DSA the main challenges were `<issue/difficulty>`
+Refer to the solutions in the relevant directory whenever you are facing problems.
 
 ## What I learned
 
-While building FCC-JavaScript-DSA I `<learned/accomplished>` about `<learning/accomplishment>`
+- JavaScript Data Structures and Algorithms
+- JavaScript ES6 Concepts
+- JavaScript Functional Programming
+- JavaScript Object Oriented Programming
 
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<a href="https://www.freecodecamp.org/certification/2kabhishek/javascript-algorithms-and-data-structures">View Certificate</a><br>
 
 <a href="https://github.com/2KAbhishek/FCC-JavaScript-DSA">Source</a> |
 <a href="https://2kabhishek.github.io/FCC-JavaScript-DSA">Website</a>
